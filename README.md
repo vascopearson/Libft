@@ -6,6 +6,8 @@
 > It will contain a lot of general purpose functions your programs will rely upon.<br/>
 > This is Version 15 of this project<br/>
 
+For detailed information, refer to the [**subject of this project**](https://github.com/vascopearson/Libft/blob/master/libft_subject.pdf).
+
 ## 🛠️ Usage
 
 ### Requirements
